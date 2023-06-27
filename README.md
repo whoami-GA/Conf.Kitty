@@ -7,3 +7,6 @@
   -  nano ~/.config/kitty/kitty.conf
   -  Insert color.ini in ~/.config
   -  install powerlevel10k (zsh) 
+
+
+# ln -s -f /home/adrian/.zshrc /root/.zshrc
